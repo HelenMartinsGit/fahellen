@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Helen Martins 👋
 
-- 🔭 I’m  working em um desenvolvimento Web para uma empresa.
-- 🌱 I’m  learning HTML, JAVASCRIPT E PYTHON.
+- 🔭 I’m  working como suporte técnico em Redes.
+- 🌱 I’m  learning HTML, CSS JAVASCRIPT E PYTHON.
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Girl Gamer CS-2 ( Fahellen, irmã do Fallen ).
+- ⚡ Fun fact: Girl Gamer CS-2 - FaHelleN
   
 ## Aprendendo
 <div style="display: inline_block"><br>

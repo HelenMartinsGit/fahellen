@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Helen Martins 👋
 
 - 🔭 Análise e Desenvolvimento de Sistemas | Suporte Técnico de Redes
-- 🌱 I’m  learning HTML, CSS JAVASCRIPT E PYTHON.
+- 🌱 HTML, CSS JAVASCRIPT E PYTHON.
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Girl Gamer CS-2 - FaHelleN
   
